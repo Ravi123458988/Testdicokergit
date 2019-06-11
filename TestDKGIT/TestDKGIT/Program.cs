@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace TestDKGIT
 {
+    //added comment
     public class Program
     {
         public static void Main(string[] args)

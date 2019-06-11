@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  testdkgit:
+    image: ${DOCKER_REGISTRY-}testdkgit
+    build:
+      context: .
+      dockerfile: TestDKGIT\Dockerfile

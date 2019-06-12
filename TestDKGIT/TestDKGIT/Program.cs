@@ -11,6 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace TestDKGIT
 {
     //added comment
+    //another comments added
     public class Program
     {
         public static void Main(string[] args)
